@@ -6,7 +6,7 @@
 
 相关类的关系说明如下
 
-![avatar](class_describe.png)
+![avatar](class_describe.jpg)
 
 ## 扩展思路
 
